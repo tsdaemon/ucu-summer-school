@@ -1,0 +1,8 @@
+__pycache__/*.*
+fnc/data/**/*
+fnc/model/**/*
+generator/data/**/*
+generator/model/**/*
+spam/spam.txt
+sentiment_imdb/data/**/*
+.idea/

@@ -1,8 +1,6 @@
-__pycache__/*.*
-fnc/data/**/*
-fnc/model/**/*
-generator/data/**/*
-generator/model/**/*
+*/__pycache__/*.*
+*/data/**/*
+*/model/**/*
 spam/spam.txt
-sentiment_imdb/data/**/*
 .idea/
+start.sh

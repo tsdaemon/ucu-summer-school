@@ -1,1 +1,1 @@
-{"module_predecessor": "k7b4bMwNFocmkQ5Tp4NKQE", "version": 6, "experiment_predecessor": "n2WckPQhcjbCmc5UNd4oQA", "family_id": "5rZvCG6wPdQiPYscLLkFp4", "name": "generate-charbased-lstm"}
+{"version": 13, "name": "generate-charbased-lstm", "family_id": "5rZvCG6wPdQiPYscLLkFp4", "module_predecessor": "VUmMvj3Xi9Ad63Gtc8mWYQ", "experiment_predecessor": "aRuy2hP7A5YSF8x9tDSxrM"}

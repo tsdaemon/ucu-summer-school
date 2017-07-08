@@ -9,9 +9,7 @@ lib64
 parts
 sdist
 var
-*.sh
+model/*.*
+model/**/*.*
+data/*.*
 *.ipynb
-model/**/*
-model/*
-data/**/*
-data/*

@@ -1,7 +1,9 @@
 from keras.models import Model, Sequential
 from keras.layers import *
 from keras import backend as K
+from sklearn.model_selection import StratifiedShuffleSplit
 from keras.callbacks import EarlyStopping, ModelCheckpoint
+from gensim.models.wrappers.fasttext import FastTextKeyedVectors
 import pickle as pc
 import pandas as pd
 
